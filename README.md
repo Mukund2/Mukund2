@@ -1,5 +1,12 @@
-## Hi there 👋
+## Mukund Kunapareddy
+MIS Student at San Jose State University
 
+### What I'm Working On
+Building data-driven dashboards that translate operational complexity into clear decisions
+Exploring how AI + analytics support aviation, logistics, defense, and infrastructure
+
+### Connect
+linkedin.com/in/mukundlk
 <!--
 **Mukund2/Mukund2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
